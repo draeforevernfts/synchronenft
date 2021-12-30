@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0d72500778e922f5b33b964f5c0883c99d92d5df",
+  "SCAN_LINK": "https://polygonscan.com/address/0x0d72500778e922f5b33b964f5c0883c99d92d5df",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Synchrone",
+  "SYMBOL": "SC",
+  "MAX_SUPPLY": 309,
+  "WEI_COST": 15311383000000000000,
+  "DISPLAY_COST": 15.311383,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/synchrone",
+  "SHOW_BACKGROUND": true
+}
